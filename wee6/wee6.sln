@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "wee6", "wee6.vcxproj", "{46FE8C72-79B3-4248-B37A-FFADD15FE458}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46FE8C72-79B3-4248-B37A-FFADD15FE458}.Debug|x64.ActiveCfg = Debug|x64
+		{46FE8C72-79B3-4248-B37A-FFADD15FE458}.Debug|x64.Build.0 = Debug|x64
+		{46FE8C72-79B3-4248-B37A-FFADD15FE458}.Debug|x86.ActiveCfg = Debug|Win32
+		{46FE8C72-79B3-4248-B37A-FFADD15FE458}.Debug|x86.Build.0 = Debug|Win32
+		{46FE8C72-79B3-4248-B37A-FFADD15FE458}.Release|x64.ActiveCfg = Release|x64
+		{46FE8C72-79B3-4248-B37A-FFADD15FE458}.Release|x64.Build.0 = Release|x64
+		{46FE8C72-79B3-4248-B37A-FFADD15FE458}.Release|x86.ActiveCfg = Release|Win32
+		{46FE8C72-79B3-4248-B37A-FFADD15FE458}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A835A48-3181-468C-8B4E-36727C1A2C80}
+	EndGlobalSection
+EndGlobal
